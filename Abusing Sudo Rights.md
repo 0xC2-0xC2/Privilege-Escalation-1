@@ -57,15 +57,24 @@ ALL
 
 ### Machines to make
 
-Ted:1
+Ted:1 > 10.0.1.110 > network-2
+
 KFIOFan : 1
+
 21 LTR: Scene1
+
 Skytower
+
 Matrix : 1
+
 Sputnik 1
+
 Sunset
+
 DC-2
+
 Kioptrix : Level 1.2
+
 Matrix-3
 
 
