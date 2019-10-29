@@ -14,7 +14,7 @@ This is a List of CTF Challenges in which privilege Escalation would be done by 
 
 |No.|Machine Name|Files/Binaries|
 |-------|--------------|----------------|
-|1.|[Ted:1](https://www.hackingarticles.in/ted1-vulnhub-walkthrough/)|apt-get|
+|1.|[Ted:1](https://www.hackingarticles.in/ted1-vulnhub-walkthrough/)|apt-get||Fazer|
 |2.|[KFIOFan : 1](https://www.hackingarticles.in/kfiofan1-vulnhub-walkthrough/)|awk|
 |3.|[21 LTR: Scene1](https://www.hackingarticles.in/hack-the-21ltr-scene-1-vm-boot-to-root/)|cat| 
 |4.|[Skytower](https://www.hackingarticles.in/hack-the-skytower-ctf-chAllenge/)|cat|
