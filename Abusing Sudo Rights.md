@@ -51,11 +51,27 @@ This is a List of CTF Challenges in which privilege Escalation would be done by 
 |35.|[Sunset: Nightfall](https://www.hackingarticles.in/sunset-nightfall-vulnhub-walkthrough/)|cat|
 
 
-## Machines to do:
+### Machines to do:
 
-ALL
+ALL 
 
-## Machines Done:
+### Machines to make
+
+Ted:1
+KFIOFan : 1
+21 LTR: Scene1
+Skytower
+Matrix : 1
+Sputnik 1
+Sunset
+DC-2
+Kioptrix : Level 1.2
+Matrix-3
+
+
+
+
+### Machines Done:
 
 
 
