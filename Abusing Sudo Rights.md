@@ -49,3 +49,15 @@ This is a List of CTF Challenges in which privilege Escalation would be done by 
 |33.|[Serial: 1](https://www.hackingarticles.in/serial-1-vulnhub-walkthrough/)|vim|
 |34.|[Zico 2](https://www.hackingarticles.in/hack-zico2-vm-ctf-chAllenge/)|zip|
 |35.|[Sunset: Nightfall](https://www.hackingarticles.in/sunset-nightfall-vulnhub-walkthrough/)|cat|
+
+
+## Machines to do:
+
+ALL
+
+## Machines Done:
+
+
+
+
+
