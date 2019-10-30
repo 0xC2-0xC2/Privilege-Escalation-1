@@ -15,8 +15,8 @@ This is a List of CTF Challenges in which privilege Escalation would be done by 
 |No.|Machine Name|Files/Binaries|
 |-------|--------------|----------------|
 |1. FAZER|[Ted:1](https://www.hackingarticles.in/ted1-vulnhub-walkthrough/)|apt-get||Fazer|
-|2. ERROR|[KFIOFan : 1](https://www.hackingarticles.in/kfiofan1-vulnhub-walkthrough/)|awk|
-|3.|[21 LTR: Scene1](https://www.hackingarticles.in/hack-the-21ltr-scene-1-vm-boot-to-root/)|cat| 
+|2.|[KFIOFan : 1](https://www.hackingarticles.in/kfiofan1-vulnhub-walkthrough/)|awk|
+|3. ERROR|[21 LTR: Scene1](https://www.hackingarticles.in/hack-the-21ltr-scene-1-vm-boot-to-root/)|cat| 
 |4.|[Skytower](https://www.hackingarticles.in/hack-the-skytower-ctf-chAllenge/)|cat|
 |5.|[Matrix : 1](https://www.hackingarticles.in/matrix-1-vulnhub-walkthrough/)|cp|
 |6.|[Sputnik 1](https://www.hackingarticles.in/sputnik-1-vulnhub-walkthrough/)|ed|
