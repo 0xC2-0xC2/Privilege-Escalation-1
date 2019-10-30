@@ -57,11 +57,11 @@ ALL
 
 ### Machines to make
 
-Ted:1 > 10.0.1.110 > network-2
+Ted:1             # 10.0.1.110 > network-2 - going
 
 KFIOFan : 1
 
-21 LTR: Scene1
+21 LTR: Scene1   # error connect port 10001
 
 Skytower
 
