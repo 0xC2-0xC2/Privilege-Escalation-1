@@ -40,9 +40,9 @@ Table of Contents
 <a name="sudo"></a>
 ##  Abusing Sudo Rights [⤴](#table-of-contents)
 
-|No.|Machine Name|Files/Binaries|
-|-------|--------------|----------------|
-|1.|[Ted:1](https://www.hackingarticles.in/ted1-vulnhub-walkthrough/)|apt-get|
+|No.|Machine Name|Files/Binaries|STATUS|
+|-------|--------------|----------------|----------|
+|1.|[Ted:1](https://www.hackingarticles.in/ted1-vulnhub-walkthrough/)|apt-get|DONE|
 |2.|[KFIOFan : 1](https://www.hackingarticles.in/kfiofan1-vulnhub-walkthrough/)|awk|
 |3.|[21 LTR: Scene1](https://www.hackingarticles.in/hack-the-21ltr-scene-1-vm-boot-to-root/)|cat| 
 |4.|[Skytower](https://www.hackingarticles.in/hack-the-skytower-ctf-chAllenge/)|cat|
@@ -206,9 +206,9 @@ Table of Contents
 
 <a name="crontab"></a>
 ##  Crontab [⤴](#table-of-contents)
-| No | Machine Name                                                                                            |
-|----|---------------------------------------------------------------------------------------------------------|
-|1.	 |[Billy Madison](https://www.hackingarticles.in/hack-billy-madison-vm-ctf-challenge/)                     |
+| No | Machine Name                                                                                            | STATUS |
+|----|---------------------------------------------------------------------------------------------------------|----------|
+|1.	 |[Billy Madison](https://www.hackingarticles.in/hack-billy-madison-vm-ctf-challenge/)  | DONE |
 |2.	 |[BSides Vancuver: 2018](https://www.hackingarticles.in/hack-the-bsides-vancouver2018-vm-boot2root-challenge/)|
 |3.	 |[Jarbas : 1](https://www.hackingarticles.in/hack-the-jarbas-1-ctf-challenge/)|
 |4.	 |[SP:Jerome](https://www.hackingarticles.in/spjerome-vulnhub-walkthrough/)|
@@ -223,10 +223,10 @@ Table of Contents
 
 <a name="capabilities"></a>
 ##  Capabilities [⤴](#table-of-contents)
-| No | Machine Name                                                                                            |
-|----|---------------------------------------------------------------------------------------------------------|
+| No | Machine Name                                                                                            | STATUS |
+|----|---------------------------------------------------------------------------------------------------------|---------|
 |1.	 |[Kuya : 1](https://www.hackingarticles.in/vulnhub-kuya-1-walkthrough/)|
-|2.	 |[DomDom: 1](https://www.hackingarticles.in/domdom-1-vulnhub-walkthrough/)|
+|2.	 |[DomDom: 1](https://www.hackingarticles.in/domdom-1-vulnhub-walkthrough/)| DONE |
 |3.  |[HA: Naruto](https://www.hackingarticles.in/ha-naruto-vulnhub-walkthrough/)
 
 <a name="etc"></a>
@@ -261,9 +261,9 @@ Table of Contents
 
 <a name="buffer"></a>
 ##  Buffer Overflow [⤴](#table-of-contents)
-| No | Machine Name                                                                                            |
-|----|---------------------------------------------------------------------------------------------------------|
-|1.	 |[Tr0ll 2](https://www.hackingarticles.in/hack-the-tr0ll-2-boot2root-challenge/)|
+| No | Machine Name                                                                                            | STATUS |
+|----|---------------------------------------------------------------------------------------------------------|----------|
+|1.	 |[Tr0ll 2](https://www.hackingarticles.in/hack-the-tr0ll-2-boot2root-challenge/)| DONE |
 |2.	 |[IMF](https://www.hackingarticles.in/hack-imf-vm-ctf-challenge/)|
 |3.	 |[BSides London 2017](https://www.hackingarticles.in/hack-the-bsides-london-vm-2017boot2root/)|
 |4.	 |[PinkyPalace](https://www.hackingarticles.in/hack-the-pinkypalace-vm-ctf-challenge/)|
@@ -275,24 +275,24 @@ Table of Contents
 
 <a name="docker"></a>
 ##  Docker [⤴](#table-of-contents)
-| No | Machine Name                                                                                            |
-|----|---------------------------------------------------------------------------------------------------------|
-|1.	 |[Donkey Docker](https://www.hackingarticles.in/hack-donkeydocker-ctf-challenge/)|
+| No | Machine Name                                                                                            | STATUS |
+|----|---------------------------------------------------------------------------------------------------------|----------|
+|1.	 |[Donkey Docker](https://www.hackingarticles.in/hack-donkeydocker-ctf-challenge/)| DONE |
 |2.	 |[Game of Thrones](https://www.hackingarticles.in/hack-game-thrones-vm-ctf-challenge/)|
 |3.	 |[HackinOS : 1](https://www.hackingarticles.in/hackinos1-vulnhub-lab-walkthrough/)|
 
 <a name="chkrootkit"></a>
 ##  Chkrootkit [⤴](#table-of-contents)
-| No | Machine Name                                                                                            |
-|----|---------------------------------------------------------------------------------------------------------|
-|1.  |[SickOS 1.2](https://www.hackingarticles.in/hack-the-sickos-1-2-vm-ctf-challenge/)|
+| No | Machine Name                                                                                            | STATUS |
+|----|---------------------------------------------------------------------------------------------------------|----------|
+|1.  |[SickOS 1.2](https://www.hackingarticles.in/hack-the-sickos-1-2-vm-ctf-challenge/)| DONE |
 |2.  |[Sedna](https://www.hackingarticles.in/hack-sedna-vm-ctf-challenge/)|
 
 <a name="bruteforce"></a>
 ##  Bruteforce [⤴](#table-of-contents) 
-| No | Machine Name                                                                                            |
-|----|---------------------------------------------------------------------------------------------------------|
-|1.  |[Rickdiculouslyeasy](https://www.hackingarticles.in/hack-rickdiculouslyeasy-vm-ctf-challenge/)|
+| No | Machine Name                                                                                            | STATUS |
+|----|---------------------------------------------------------------------------------------------------------|----------|
+|1.  |[Rickdiculouslyeasy](https://www.hackingarticles.in/hack-rickdiculouslyeasy-vm-ctf-challenge/)| DONE
 |2.  |[RootThis : 1](https://www.hackingarticles.in/vulnhub-rootthis-1-walkthrough/)|
 |3.  |[LAMPSecurity: CTF 8](https://www.hackingarticles.in/hack-the-lampsecurity-ctf8-ctf-challenge-2/)|
 |4.  |[Cyberry:1](https://hackingarticles.in/hack-vm-cyberry-1boot2root-challenge/)|
@@ -300,9 +300,9 @@ Table of Contents
 
 <a name="shadow"></a>
 ##  Crack /etc/shadow [⤴](#table-of-contents)
-| No | Machine Name                                                                                            |
-|----|---------------------------------------------------------------------------------------------------------|
-|1.  |[DE-ICE:S1.140](https://www.hackingarticles.in/hack-the-de-ice-s1-140-boot-to-root/)|
+| No | Machine Name                                                                                            | STATUS |
+|----|---------------------------------------------------------------------------------------------------------|---------|
+|1.  |[DE-ICE:S1.140](https://www.hackingarticles.in/hack-the-de-ice-s1-140-boot-to-root/)| DONE |
 |2.  |[Minotaur](https://www.hackingarticles.in/hack-minotaur-vm-ctf-challenge/)|
 |3.  |[Moonraker:1](https://www.hackingarticles.in/moonraker1-vulnhub-walkthrough/)|
 |4.  |[Basic Penetration](https://www.hackingarticles.in/hack-the-basic-penetration-vm-boot2root-challenge/)|
