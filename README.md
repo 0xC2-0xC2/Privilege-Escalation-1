@@ -154,9 +154,9 @@ Table of Contents
 <a name="enum"></a>
 ##  Enumeration [⤴](#table-of-contents)
 
-| No. | Machine Name                                                                                                          |
-|-----|-----------------------------------------------------------------------------------------------------------------------|
-| 1.   | [The Library:1](https://hackingarticles.in/the-library1-vulnhub-walkthrough/)                                         |
+| No. | Machine Name                                                                                                          | STATUS
+|-----|-----------------------------------------------------------------------------------------------------------------------|----------|
+| 1.   | [The Library:1](https://hackingarticles.in/the-library1-vulnhub-walkthrough/) | DOING |
 | 2.   | [The Library:2](https://www.hackingarticles.in/the-library2-vulnhub-walkthrough/)                                     |
 | 3.   | [LAMPSecurity: CTF 4](https://www.hackingarticles.in/hack-the-lampsecurity-ctf4-ctf-challenge/)                       |
 | 4.   | [LAMPSecurity: CTF 7](https://www.hackingarticles.in/hack-the-lampsecurity-ctf-7-ctf-challenge/)                      |
